@@ -99,3 +99,5 @@ CREATE TABLE customers(
  ```
  
  
+### Deployment
+``` docker-compose up```
