@@ -1,4 +1,4 @@
-# Distribuded systems - final thesis
+# Distributed systems - final thesis
 
 ## Deployment diagram
 ![image](https://assets.digitalocean.com/articles/architecture/load_balancer.png)
